@@ -13,6 +13,11 @@ User can add meals in cart by selecting number of quantity and after that it wil
 
 ## Dependency used :
   provider: ^6.0.1 : App State Management
+  
+  
+  ## Command to run test-cases on terminal :
+  flutter test ./lib/widgets/test_widget/widget_testing.dart 
+
 
 
 ## ScreenShots
